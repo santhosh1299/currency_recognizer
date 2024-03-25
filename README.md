@@ -3,7 +3,7 @@
 The Currency Recognizer Project is a revolutionary application aimed at assisting individuals with visual impairments by leveraging cutting-edge technology to identify currency denominations from images. Utilizing the VGG16 model, the project predicts the denomination of various currencies and provides the local currency value, empowering users in financial transactions.
 
 
-<img src="https://github.com/santhosh1299/currency_recognizer/blob/master/currency%20recog.drawio.png" alt="" width="500" height="350">
+<img src="https://github.com/santhosh1299/currency_recognizer/blob/master/currency%20recog.drawio.png" alt="" >
 
 
 
